@@ -101,10 +101,10 @@ aws s3 ls s3://your-destination-bucket/processed/
 - **boto3** - AWS SDK
 - **AWS Lambda** - Serverless compute
 - **S3** - Storage
-- **Terraform** - Infrastructure (see `/image-processing-infra`)
+- **Terraform** - Infrastructure (see [`image-processing-infra`](https://github.com/cahtarevic-ermin/image-processing-infra))
 
 ## Support
 
-For infrastructure setup, see the companion repository: `image-processing-infra`
+For infrastructure setup, see the companion repository: [`image-processing-infra`](https://github.com/cahtarevic-ermin/image-processing-infra)
 
 **Need help?** Check CloudWatch logs or open an issue.

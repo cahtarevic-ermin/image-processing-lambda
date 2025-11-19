@@ -1,0 +1,11 @@
+# Image processing library
+Pillow==10.3.0
+
+# AWS SDK (boto3 is pre-installed in Lambda, but needed for local testing)
+boto3==1.34.51
+
+# For local development/testing only
+python-dotenv==1.0.1
+
+# HTTP requests (for Discord webhook)
+requests==2.32.5

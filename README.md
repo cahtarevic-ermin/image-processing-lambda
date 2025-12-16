@@ -1,4 +1,4 @@
-# 🖼️ Image Processing Lambda
+# 🖼️ Prism - Image Processing Lambda
 
 Automatically process uploaded images with aspect ratio correction and watermark branding.
 
